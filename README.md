@@ -1,2 +1,2 @@
 # air-pollution-analysis
-analys
+analysis
